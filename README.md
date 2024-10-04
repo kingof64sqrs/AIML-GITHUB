@@ -19,7 +19,7 @@
 | <img src="https://github.com/vyshukasu.png" width="100px"> | vyshukasu | [vyshukasu](https://github.com/vyshukasu) |
 | <img src="https://github.com/iamendless10.png" width="100px"> | iamendless10 | [iamendless10](https://github.com/iamendless10) |
 | <img src="https://github.com/KeerthanaNehru.png" width="100px"> | KeerthanaNehru | [KeerthanaNehru](https://github.com/KeerthanaNehru) |
-| <img src="https://github.com/kingof64sqrs.png" width="100px"> | kingof64sqrs | [kingof64sqrs](https://github.com/kingof64sqrs) |
+| <img src="https://github.com/kingof64sqrs.png" width="100px"> | Krishna Paresh Raichura | [kingof64sqrs](https://github.com/kingof64sqrs) |
 | <img src="https://github.com/Leelavinothan12.png" width="100px"> | Leelavinothan12 | [Leelavinothan12](https://github.com/Leelavinothan12) |
 | <img src="https://github.com/MITHUNVIJAYVM.png" width="100px"> | MITHUNVIJAYVM | [MITHUNVIJAYVM](https://github.com/MITHUNVIJAYVM) |
 | <img src="https://github.com/Esakhan28.png" width="100px"> | Esakhan28 | [Esakhan28](https://github.com/Esakhan28) |
